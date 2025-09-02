@@ -4,7 +4,6 @@
 **Developed by DeMoD LLC**  
 **Contact:** info@demodllc.example  
 **License:** MIT License  
-[![Build Status](https://github.com/ALH477/DeMoD-Determinate-Nix/workflows/CI/badge.svg)](https://github.com/ALH477/DeMoD-Determinate-Nix/actions)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Nix Flake](https://img.shields.io/badge/Nix-Flake-blue.svg)](https://nixos.org)
 
