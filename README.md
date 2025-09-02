@@ -21,8 +21,8 @@ A Nix Flake configuration optimized for developing the **DeMoD Communications Fr
 ##  Usage
 
 ```bash
-git clone https://github.com/ALH477/DeMoD-Communication-Framework.git
-cd DeMoD-Communication-Framework
+git clone https://github.com/ALH477/DeMoD-Determinate-Nix.git
+cd /DeMoD-Determinate-Nix
 
 # Enter the development shell defined by flakes
 nix develop
