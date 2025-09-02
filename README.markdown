@@ -2,7 +2,7 @@
 
 **Version 5.0.0 | September 2, 2025**  
 **Developed by DeMoD LLC**  
-**Contact:** info@demodllc.example  
+**Contact:** info@demod.ltd  
 **License:** MIT License  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Nix Flake](https://img.shields.io/badge/Nix-Flake-blue.svg)](https://nixos.org)
