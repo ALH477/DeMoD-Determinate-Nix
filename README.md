@@ -100,7 +100,7 @@ nix build .#dcf
 
 ##  License & Compliance
 
-- **License**: GNU GPL‑3.0 — fully open-source and community-oriented.  
+- **License**: MIT 
 - **Export Compliance**: DCF deliberately avoids encryption to remain compliant with U.S. export laws (EAR/ITAR). Custom extensions may require a legal review.  
 
 ---
